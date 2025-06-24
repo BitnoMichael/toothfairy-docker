@@ -5,7 +5,7 @@ tags:
 - medical
 ---
 # U-Net Transplant: Model Merging for 3D Medical Segmentation  
-![alt text](https://github.com/LucaLumetti/UNetTransplant/blob/main/assets/thumbnail.png)
+![alt text](https://raw.githubusercontent.com/LucaLumetti/UNetTransplant/refs/heads/main/assets/thumbnail.png)
 
 This repository contains the implementation of **U-Net Transplant**, a framework for efficient model merging in 3D medical image segmentation. Model merging enables the combination of specialized segmentation models without requiring full retraining, offering a flexible and privacy-conscious solution for updating AI models in clinical applications.  
 
